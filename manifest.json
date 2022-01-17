@@ -16,7 +16,6 @@
     {
       "matches": ["https://odysee.com/*"],
       "run_at": "document_idle",
-      "all_frames": true,
       "js": ["content-script.js"]
     }
   ]
